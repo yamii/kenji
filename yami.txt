@@ -1,0 +1,11 @@
+'use strict';
+
+module.exports = function() {
+
+	console.log( 'kenji' );
+	console.log( 'prince' );
+	console.log( 'jack' );
+
+	console.log( 'Hello world' );
+
+}
